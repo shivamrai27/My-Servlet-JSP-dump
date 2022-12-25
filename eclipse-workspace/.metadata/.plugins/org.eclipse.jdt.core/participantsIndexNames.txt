@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\SR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3260105839.index
+\StudentRegistration\src\main\resources
+C:\Users\SR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\344166634.index
+\TODO_WebApp\src\main\java
+C:\Users\SR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2309904282.index
+\TODO_WebApp\src\main\resources
+C:\Users\SR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3449928249.index
+\StudentRegistration\src\main\java
+C:\Users\SR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4131434367.index
+\AuthenticationModule\src
+C:\Users\SR\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3727742835.index
+\AuthenticationModule\src\main\resources
