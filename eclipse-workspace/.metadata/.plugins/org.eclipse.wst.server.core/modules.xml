@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<modules>
-  <module moduleId="org.eclipse.jst.j2ee.server:TODO_WebApp" serverId="Tomcat v9.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.j2ee.server:AuthenticationModule" serverId="Tomcat v9.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.j2ee.server:StudentRegistration" serverId="Tomcat v9.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:AuthenticationModule" serverId="Tomcat v9.0 Server at localhost"/>
-</modules>

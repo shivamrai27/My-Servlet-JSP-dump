@@ -1,7 +1,0 @@
-package com.Db;
-
-import java.sql.Connection;
-
-public class ConnectionProvider {
-  static 
-}

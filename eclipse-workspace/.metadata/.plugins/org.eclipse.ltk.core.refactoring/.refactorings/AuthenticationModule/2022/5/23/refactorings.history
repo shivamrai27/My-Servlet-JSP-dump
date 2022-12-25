@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Move &apos;stytle.css&apos; to &apos;WebContent&apos;" description="Move &apos;stytle.css&apos; to &apos;WebContent&apos;" destination="WebContent" element1="WebContent/CSS/stytle.css" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1653956279955" updateReferences="true"/>&#x0A;<refactoring comment="Move &apos;stytle.css&apos; to &apos;CSS&apos;" description="Move &apos;stytle.css&apos; to &apos;CSS&apos;" destination="WebContent/CSS" element1="WebContent/stytle.css" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1653956295823" updateReferences="true"/>
-</session>
